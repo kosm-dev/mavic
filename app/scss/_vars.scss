@@ -1,7 +1,24 @@
-// breakpoints
-$xxl: 1400px;
-$xl: 1200px;
-$lg: 992px;
-$md: 768px;
-$sm: 576px;
-$xs: 374px;
+%sf-regular {
+  font-family: "SFProDisplay-Regular", sans-serif;
+  font-weight: 400;
+}
+
+%sf-semibold {
+  font-family: "SFProDisplay-Semibold", sans-serif;
+  font-weight: 600;
+}
+
+%ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+%ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+%ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
